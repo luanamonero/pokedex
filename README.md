@@ -18,3 +18,5 @@ Gif exibindo uma sugestão de implementação da aplicação my-pokede
 
 #Resultado
 
+<img align="center" alt="Luana-Surf" width="80%" src="https://raw.githubusercontent.com/luanamonero/pokedex/main/result.png">
+
